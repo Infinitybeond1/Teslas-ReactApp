@@ -22,7 +22,11 @@ export default function App() {
         effectiveness over a long distance.
       </p1>
       <h3>Cameras</h3>
-      <p1>The cameras on tesla cars have a max range of 250 meters</p1>
+      <p1>
+        The cameras on tesla cars have a max range of 250 meters which is a
+        massive increase of range from the radar (which only has the range of
+        10m)
+      </p1>
     </div>
   );
 }
